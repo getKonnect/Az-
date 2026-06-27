@@ -25,7 +25,7 @@ export default function App({ Component, pageProps }: AppProps) {
             `,
           }}
         />
-        <title>Azra ✦ XX</title>
+        <title>Azra</title>
       </Head>
       <Component {...pageProps} />
     </>
