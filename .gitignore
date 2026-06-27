@@ -1,9 +1,9 @@
 # dependencies
-azra-landing-hero/node_modules/
+node_modules/
 
 # next.js
-azra-landing-hero/.next/
-azra-landing-hero/out/
+.next/
+out/
 
 # env
 .env
